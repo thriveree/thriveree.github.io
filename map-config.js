@@ -1,4 +1,4 @@
-//Last updated: 03/15/2018 21:00 MDT - HN
+//Last updated: 06/23/2018 17:45 MDT - HN
 var map_config = {
 	'default':{
 		'bordercolor':'#f7f7f7',       // inter-state borders
@@ -11,7 +11,7 @@ var map_config = {
 	'map_1':{
 		'namesId':'AL',   // State Name's ID (Don't change it since this is used in other files for the map)
 		'name': 'Click here! Coaching & Licensing is also available!',   // Text that's displayed when the mouse is over that state
-		'url':'http://www.thriverealestateeducation.com/pages/alabama',  // URL to go to when you click on the state
+		'url':'https://adres.thoughtindustries.com/pages/alabama',  // URL to go to when you click on the state
 		'target':'_blank',      // '_blank' opens the state in the main browser window instead of in the iframe
 		'upcolor':'#f4c900',    // Color displayed when the mouse is not over that state
 		'overcolor':'#f4a900',  // Color displayed when the mouse is hovering over that state
@@ -21,7 +21,7 @@ var map_config = {
 	'map_2':{
 		'namesId':'AK',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/alaska',
+		'url':'https://adres.thoughtindustries.com/pages/alaska',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -31,7 +31,7 @@ var map_config = {
 	'map_3':{
 		'namesId':'AZ',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/arizona',
+		'url':'https://adres.thoughtindustries.com/pages/arizona',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -41,7 +41,7 @@ var map_config = {
 	'map_4':{
 		'namesId':'AR',
 		'name': 'Click here! Coaching & Licensing is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/arkansas',
+		'url':'https://adres.thoughtindustries.com/pages/arkansas',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -51,7 +51,7 @@ var map_config = {
 	'map_5':{
 		'namesId':'CA',
 		'name': 'Click here! Coaching & Licensing is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/california',
+		'url':'https://adres.thoughtindustries.com/pages/california',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -61,7 +61,7 @@ var map_config = {
 	'map_6':{
 		'namesId':'CO',
 		'name': 'Click here! Coaching & Licensing is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/colorado',
+		'url':'https://adres.thoughtindustries.com/pages/colorado',
 		'target':'_blank',
 		'upcolor':'#6fbe44',
 		'overcolor':'#3ca900',
@@ -71,7 +71,7 @@ var map_config = {
 	'map_7':{
 		'namesId':'CT',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/connecticut',
+		'url':'https://adres.thoughtindustries.com/pages/connecticut',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -81,7 +81,7 @@ var map_config = {
 	'map_8':{
 		'namesId':'DE',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/delaware',
+		'url':'https://adres.thoughtindustries.com/pages/delaware',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -91,7 +91,7 @@ var map_config = {
 	'map_9':{
 		'namesId':'FL',
 		'name': 'Click here! Coaching & Licensing is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/florida',
+		'url':'https://adres.thoughtindustries.com/pages/florida',
 		'target':'_blank',
 		'upcolor':'#6fbe44',
 		'overcolor':'#3ca900',
@@ -101,7 +101,7 @@ var map_config = {
 	'map_10':{
 		'namesId':'GA',
 		'name': 'Click here! Coaching & Licensing is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/georgia',
+		'url':'https://adres.thoughtindustries.com/pages/georgia',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -111,7 +111,7 @@ var map_config = {
 	'map_11':{
 		'namesId':'HI',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/hawaii',
+		'url':'https://adres.thoughtindustries.com/pages/hawaii',
 		'target':'_blank',
 		'upcolor':'#6fbe44',
 		'overcolor':'#3ca900',
@@ -121,7 +121,7 @@ var map_config = {
 	'map_12':{
 		'namesId':'ID',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/idaho',
+		'url':'https://adres.thoughtindustries.com/pages/idaho',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -131,7 +131,7 @@ var map_config = {
 	'map_13':{
 		'namesId':'IL',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/illinois',
+		'url':'https://adres.thoughtindustries.com/pages/illinois',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -141,7 +141,7 @@ var map_config = {
 	'map_14':{
 		'namesId':'IN',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/indiana',
+		'url':'https://adres.thoughtindustries.com/pages/indiana',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -151,7 +151,7 @@ var map_config = {
 	'map_15':{
 		'namesId':'IA',
 		'name': 'Click here! Coaching & Licensing is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/iowa',
+		'url':'https://adres.thoughtindustries.com/pages/iowa',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -161,7 +161,7 @@ var map_config = {
 	'map_16':{
 		'namesId':'KS',
 		'name': 'Click here! Coaching & Licensing is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/kansas',
+		'url':'https://adres.thoughtindustries.com/pages/kansas',
 		'target':'_blank',
 		'upcolor':'#6fbe44',
 		'overcolor':'#3ca900',
@@ -171,7 +171,7 @@ var map_config = {
 	'map_17':{
 		'namesId':'KY',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/kentucky',
+		'url':'https://adres.thoughtindustries.com/pages/kentucky',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -181,7 +181,7 @@ var map_config = {
 	'map_18':{
 		'namesId':'LA',
 		'name': 'Click here! Coaching & Licensing is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/louisiana',
+		'url':'https://adres.thoughtindustries.com/pages/louisiana',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -191,7 +191,7 @@ var map_config = {
 	'map_19':{
 		'namesId':'ME',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/maine',
+		'url':'https://adres.thoughtindustries.com/pages/maine',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -201,7 +201,7 @@ var map_config = {
 	'map_20':{
 		'namesId':'MD',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/maryland',
+		'url':'https://adres.thoughtindustries.com/pages/maryland',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -211,7 +211,7 @@ var map_config = {
 	'map_21':{
 		'namesId':'MA',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/massachusetts',
+		'url':'https://adres.thoughtindustries.com/pages/massachusetts',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -221,7 +221,7 @@ var map_config = {
 	'map_22':{
 		'namesId':'MI',
 		'name': 'Click here! Coaching & Licensing is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/michigan',
+		'url':'https://adres.thoughtindustries.com/pages/michigan',
 		'target':'_blank',
 		'upcolor':'#6fbe44',
 		'overcolor':'#3ca900',
@@ -231,7 +231,7 @@ var map_config = {
 	'map_23':{
 		'namesId':'MN',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/minnesota',
+		'url':'https://adres.thoughtindustries.com/pages/minnesota',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -241,7 +241,7 @@ var map_config = {
 	'map_24':{
 		'namesId':'MS',
 		'name': 'Click here! Coaching & Licensing is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/mississippi',
+		'url':'https://adres.thoughtindustries.com/pages/mississippi',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -251,7 +251,7 @@ var map_config = {
 	'map_25':{
 		'namesId':'MO',
 		'name': 'Click here! Coaching & Licensing is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/missouri',
+		'url':'https://adres.thoughtindustries.com/pages/missouri',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -261,7 +261,7 @@ var map_config = {
 	'map_26':{
 		'namesId':'MT',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/montana',
+		'url':'https://adres.thoughtindustries.com/pages/montana',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -271,7 +271,7 @@ var map_config = {
 	'map_27':{
 		'namesId':'NE',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/nebraska',
+		'url':'https://adres.thoughtindustries.com/pages/nebraska',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -281,7 +281,7 @@ var map_config = {
 	'map_28':{
 		'namesId':'NV',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/nevada',
+		'url':'https://adres.thoughtindustries.com/pages/nevada',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -291,7 +291,7 @@ var map_config = {
 	'map_29':{
 		'namesId':'NH',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/new-hampshire',
+		'url':'https://adres.thoughtindustries.com/pages/new-hampshire',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -301,7 +301,7 @@ var map_config = {
 	'map_30':{
 		'namesId':'NJ',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/new-jersey',
+		'url':'https://adres.thoughtindustries.com/pages/new-jersey',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -311,7 +311,7 @@ var map_config = {
 	'map_31':{
 		'namesId':'NM',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/new-mexico',
+		'url':'https://adres.thoughtindustries.com/pages/new-mexico',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -321,7 +321,7 @@ var map_config = {
 	'map_32':{
 		'namesId':'NY',
 		'name': 'Click here! Coaching & Licensing is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/new-york',
+		'url':'https://adres.thoughtindustries.com/pages/new-york',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -331,7 +331,7 @@ var map_config = {
 	'map_33':{
 		'namesId':'NC',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/north-carolina',
+		'url':'https://adres.thoughtindustries.com/pages/north-carolina',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -341,7 +341,7 @@ var map_config = {
 	'map_34':{
 		'namesId':'ND',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/north-dakota',
+		'url':'https://adres.thoughtindustries.com/pages/north-dakota',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -351,7 +351,7 @@ var map_config = {
 	'map_35':{
 		'namesId':'OH',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/ohio',
+		'url':'https://adres.thoughtindustries.com/pages/ohio',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -361,7 +361,7 @@ var map_config = {
 	'map_36':{
 		'namesId':'OK',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/oklahoma',
+		'url':'https://adres.thoughtindustries.com/pages/oklahoma',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -371,7 +371,7 @@ var map_config = {
 	'map_37':{
 		'namesId':'OR',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/oregon',
+		'url':'https://adres.thoughtindustries.com/pages/oregon',
 		'target':'_blank',
 		'upcolor':'#6fbe44',
 		'overcolor':'#3ca900',
@@ -381,7 +381,7 @@ var map_config = {
 	'map_38':{
 		'namesId':'PA',
 		'name': 'Click here! Coaching & Licensing is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/pennsylvania',
+		'url':'https://adres.thoughtindustries.com/pages/pennsylvania',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -391,7 +391,7 @@ var map_config = {
 	'map_39':{
 		'namesId':'RI',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/rhode-island',
+		'url':'https://adres.thoughtindustries.com/pages/rhode-island',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -401,7 +401,7 @@ var map_config = {
 	'map_40':{
 		'namesId':'SC',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/south-carolina',
+		'url':'https://adres.thoughtindustries.com/pages/south-carolina',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -411,7 +411,7 @@ var map_config = {
 	'map_41':{
 		'namesId':'SD',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/south-dakota',
+		'url':'https://adres.thoughtindustries.com/pages/south-dakota',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -421,7 +421,7 @@ var map_config = {
 	'map_42':{
 		'namesId':'TN',
 		'name': 'Click here! Coaching & Licensing is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/tennessee',
+		'url':'https://adres.thoughtindustries.com/pages/tennessee',
 		'target':'_blank',
 		'upcolor':'#6fbe44',
 		'overcolor':'#3ca900',
@@ -431,7 +431,7 @@ var map_config = {
 	'map_43':{
 		'namesId':'TX',
 		'name': 'Click here! Coaching & Licensing is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/texas',
+		'url':'https://adres.thoughtindustries.com/pages/texas',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -441,7 +441,7 @@ var map_config = {
 	'map_44':{
 		'namesId':'UT',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/utah',
+		'url':'https://adres.thoughtindustries.com/pages/utah',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -451,7 +451,7 @@ var map_config = {
 	'map_45':{
 		'namesId':'VT',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/vermont',
+		'url':'https://adres.thoughtindustries.com/pages/vermont',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -461,7 +461,7 @@ var map_config = {
 	'map_46':{
 		'namesId':'VA',
 		'name': 'Click here! Coaching & Licensing is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/virginia',
+		'url':'https://adres.thoughtindustries.com/pages/virginia',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -471,7 +471,7 @@ var map_config = {
 	'map_47':{
 		'namesId':'WA',
 		'name': 'Click here! Coaching & Licensing is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/washington',
+		'url':'https://adres.thoughtindustries.com/pages/washington',
 		'target':'_blank',
 		'upcolor':'#6fbe44',
 		'overcolor':'#3ca900',
@@ -481,7 +481,7 @@ var map_config = {
 	'map_48':{
 		'namesId':'WV',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/west-virginia',
+		'url':'https://adres.thoughtindustries.com/pages/west-virginia',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -491,7 +491,7 @@ var map_config = {
 	'map_49':{
 		'namesId':'WI',
 		'name': 'Click here! Coaching & Licensing is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/wisconsin',
+		'url':'https://adres.thoughtindustries.com/pages/wisconsin',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -501,7 +501,7 @@ var map_config = {
 	'map_50':{
 		'namesId':'WY',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/wyoming',
+		'url':'https://adres.thoughtindustries.com/pages/wyoming',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
@@ -511,7 +511,7 @@ var map_config = {
 	'map_51':{
 		'namesId':'DC',
 		'name': 'Click here! Coaching is also available!',
-		'url':'http://www.thriverealestateeducation.com/pages/washington-dc',
+		'url':'https://adres.thoughtindustries.com/pages/washington-dc',
 		'target':'_blank',
 		'upcolor':'#f4c900',
 		'overcolor':'#f4a900',
