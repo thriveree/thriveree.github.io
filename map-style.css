@@ -3,7 +3,7 @@ form {display:block; margin:0; padding:0;} body, h1, h2, h3, h4, h5, h6, hr, p, 
 a:hover{text-decoration: none;}
 #mapwrapper
 {
-	max-width:1920px;
+	max-width:98%;
 	margin:0 auto;
 	padding:0px 0;
 	background-color:#ffffff;
